@@ -8,3 +8,6 @@ The purpose of this script is to eliminate the need to manually back up your dat
 The purpose of this script is to perform very very simple latency testing against an anonymous endpoint.  When I say anonymous, I mean a non-authenticated request against a URL.
 Currently, the script only performs GET requests.
 The script will accumulate the total amount of time needed to execute the request and average it all together to display an average latency when all requests are finished.
+
+## Jenkins_Install_Script
+The following script is a bash script that should help you get Jenkins up and running on a Ubuntu 14.04 server fast easily
