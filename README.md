@@ -11,3 +11,6 @@ The script will accumulate the total amount of time needed to execute the reques
 
 ## Jenkins_Install_Script
 The following script is a bash script that should help you get Jenkins up and running on a Ubuntu 14.04 server fast easily
+
+## Symfony_Install_Script
+CentOS Bash Script to setup a server and install Symfony
