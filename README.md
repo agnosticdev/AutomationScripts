@@ -14,3 +14,7 @@ The following script is a bash script that should help you get Jenkins up and ru
 
 ## Symfony_Install_Script
 CentOS Bash Script to setup a server and install Symfony
+
+## iOSTestAutomation
+Bash script to gather information from a user about automated tests that they want to run on a project.
+The script then runs the tests on each of the destinations, compiles the results and writes them to a log.
